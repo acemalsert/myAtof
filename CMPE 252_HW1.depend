@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619104162 source:c:\users\acs\desktop\ahmet cemal sert\c\codeblocks c projelerim\cmpe 252_hw1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
