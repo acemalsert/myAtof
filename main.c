@@ -1,7 +1,6 @@
 /*
 Author : Ahmet Cemal Sert
 Title : CMPE252 HW1 Part2
-ID: 43999263780
  */
 
 #include <stdio.h>
